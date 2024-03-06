@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailesh</h1>
-<h3 align="center">A passionate data enthusiast and interest in Python development and Gen AI.</h3>
+<h3 align="center">A passionate data enthusiast with interest in Python development and Gen AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshailesh11&label=Profile%20views&color=0e75b6&style=flat" alt="yshailesh11" /> </p>
 
