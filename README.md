@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshailesh11&label=Profile%20views&color=0e75b6&style=flat" alt="yshailesh11" /> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Power BI & GEN AI**
 
-- 📫 How to reach me **yshailesh1104@gmail.com**
+- 📫 Reach to me at **yshailesh1104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
